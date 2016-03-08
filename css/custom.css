@@ -1,12 +1,17 @@
 Section.heading {
     background-image: url(../img/heading.jpg);
-    height : 150px;
+    height : 400px;
     width : 100%;
     text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
 }
 
 body {
     background-image: url(../img/metal.jpg);
+    height: 100%;
+    background-size: 100%;
 }
 
 img {
