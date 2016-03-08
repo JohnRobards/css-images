@@ -1,9 +1,14 @@
 Section.heading {
     background-image: url(../img/heading.jpg);
-    height : 20px;
-    width : 80px;
+    height : 150px;
+    width : 100%;
+    text-align: center;
 }
 
-p {
+body {
     background-image: url(../img/metal.jpg);
+}
+
+img {
+    padding: 10px;
 }
